@@ -86,7 +86,7 @@ You're free to use, modify, and distribute this addon. Just keep the copyright n
 ## Support
 
 - **Issues**: [GitHub Issues](../../issues)
-- **Gumroad**: [Link to your Gumroad page]
+- **Gumroad**: https://addonyte.gumroad.com/l/geometrynodesguide
 
 ## Credits
 
