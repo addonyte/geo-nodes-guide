@@ -41,7 +41,7 @@ Copy the `geo_nodes_guide` folder to your Blender addons directory.
 
 ## Requirements
 
-- Blender 5.0 or newer
+- Blender 5.0
 
 ## Contributing
 
