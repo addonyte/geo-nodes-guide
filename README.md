@@ -27,7 +27,7 @@ No more tab-switching to look up documentation.
 
 ### Option 2: Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/geo-nodes-guide.git
+git clone https://github.com/addonyte/geo-nodes-guide.git
 ```
 Copy the `geo_nodes_guide` folder to your Blender addons directory.
 
