@@ -1,0 +1,21 @@
+schema_version = "1.0.0"
+
+id = "geo_nodes_guide"
+name = "Geo Nodes Guide"
+version = "0.1.0"
+tagline = "Live documentation and examples for Geometry Nodes"
+maintainer = "Addonyte"
+type = "add-on"
+
+# Optional metadata
+tags = ["Node", "User Interface", "Geometry Nodes"]
+
+# Blender version requirements
+blender_version_min = "5.0.0"
+
+# License
+license = ["SPDX:MIT"]
+
+# Files/folders to exclude from the package (optional)
+# [build]
+# paths_exclude_pattern = ["__pycache__/", "*.pyc"]
