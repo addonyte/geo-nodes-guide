@@ -3,8 +3,11 @@
 A Blender addon that shows instant documentation when you hover over Geometry Nodes.
 
 ![Blender](https://img.shields.io/badge/Blender-5.0+-orange)
-![License](https://img.shields.io/badge/License-MIT-blue)
+![License](https://img.shields.io/github/license/addonyte/geo-nodes-guide)
 ![Nodes](https://img.shields.io/badge/Nodes%20Documented-332-green)
+![Contributors](https://img.shields.io/github/contributors/addonyte/geo-nodes-guide)
+![Open Source](https://img.shields.io/badge/Open%20Source-GPL--3.0--or--later-green)
+
 
 ## What It Does
 
@@ -41,7 +44,7 @@ Copy the `geo_nodes_guide` folder to your Blender addons directory.
 
 ## Requirements
 
-- Blender 5.0
+- Blender 5.0 or newer
 
 ## Contributing
 
@@ -51,7 +54,7 @@ Contributions are welcome! Here's how you can help:
 We'd love help translating the node documentation to other languages. If you're interested:
 1. Open an issue saying which language you'd like to add
 2. Fork the repo
-3. Add translations to `database.py`
+3. Add translations to the documentation data files (see database.py for current structure)
 4. Submit a pull request
 
 ### 📝 Improve Documentation
@@ -73,20 +76,20 @@ geo_nodes_guide/
 ├── __init__.py              # Main addon code
 ├── database.py              # Node documentation (332 nodes)
 ├── blender_manifest.toml    # Blender extension manifest
-├── LICENSE                  # MIT License
+├── LICENSE                  # GPL-3.0-or-later
 └── README.md                # This file
 ```
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) for details.
+GPL-3.0-or-later - see [LICENSE](LICENSE) for details.
 
-You're free to use, modify, and distribute this addon. Just keep the copyright notice.
+You’re free to use, modify, and distribute this addon under the terms of the GPL-3.0-or-later license. Any distributed modifications must remain open source under the same license.
 
 ## Support
 
 - **Issues**: [GitHub Issues](../../issues)
-- **Gumroad**: https://addonyte.gumroad.com/l/geometrynodesguide
+- **Gumroad**: [https://addonyte.gumroad.com/l/geometrynodesguide]
 
 ## Credits
 
