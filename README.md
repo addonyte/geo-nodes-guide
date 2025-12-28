@@ -3,7 +3,7 @@
 A Blender addon that shows instant documentation when you hover over Geometry Nodes.
 
 ![Blender](https://img.shields.io/badge/Blender-5.0+-orange)
-![License](https://img.shields.io/github/license/addonyte/geo-nodes-guide)
+![License](https://img.shields.io/badge/License-GPL--3.0--or--later-blue)
 ![Nodes](https://img.shields.io/badge/Nodes%20Documented-332-green)
 ![Contributors](https://img.shields.io/github/contributors/addonyte/geo-nodes-guide)
 ![Open Source](https://img.shields.io/badge/Open%20Source-GPL--3.0--or--later-green)
