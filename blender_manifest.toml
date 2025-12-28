@@ -14,7 +14,7 @@ tags = ["Node", "User Interface", "Geometry Nodes"]
 blender_version_min = "5.0.0"
 
 # License
-license = ["SPDX:MIT"]
+license = ["SPDX:GPL-3.0-or-later"]
 
 # Files/folders to exclude from the package (optional)
 # [build]
