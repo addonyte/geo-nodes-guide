@@ -89,7 +89,7 @@ You’re free to use, modify, and distribute this addon under the terms of the G
 ## Support
 
 - **Issues**: [GitHub Issues](../../issues)
-- **Gumroad**: [https://addonyte.gumroad.com/l/geometrynodesguide]
+- **Gumroad**: https://addonyte.gumroad.com/l/geometrynodesguide
 
 ## Credits
 
